@@ -1,20 +1,20 @@
 # Jojo
 
-I use `C++` for most of my projects. I am also trying out `Rust`.
+I use C++ for most of my projects. That's were the name comes from. Very funny I know.
 
-### Other things I like to do are
-- making games for old consoles, such as:
-  - **Gameboy**
+## Some things I like to do
+- make games for old consoles, such as:
+  - **Game Boy**
   - **WII**
   - **NDS**
-- porting small games made with **raylib** to those consoles
-- developing games in general using **Unreal Engine** or **Unity**
-- writing small programs for own file formats, tools, or other fun stuff
+- port small games made with **raylib** to those consoles
+- develop games in general using **Unity**, **Unreal Engine** and other tools
+- write small programs for own file formats, tools, or other fun stuff
 - web development
 
-## Other technologies I use
+## Cool technologies I like to use
 - Raylib
 - React
 - Spring Boot
-- Linux (ArCh bTw)
+- Linux
 - ...
